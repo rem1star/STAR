@@ -16,7 +16,7 @@
 
 # <p align="center"> كود تنصيب السورس 🖇
 
-<br>`git clone https://github.com/TeamGlobla/GLOBLA.git && cd GLOBLA && chmod +x tg && chmod +x RUN && chmod +x run && ./run`
+<br>`git clone https://github.com/rem1star/STAR.git && cd GLOBLA && chmod +x tg && chmod +x RUN && chmod +x run && ./run`
 
 # <p align="center"> بعد انتهاء عمليه تثبيت السورس 🚸
 
@@ -33,12 +33,12 @@
 
 #  💬¦ للمشاكل والاسفسار والاقتراحات :
   
-  [ZAIN ALABDEEN](https://telegram.me/yybyy) <br>
+  [AMERA](https://telegram.me/GX_YT) <br>
   
   
-[ TEAM GLOBLA ](https://telegram.me/GLOBLA) <br>
+[ TEAM STAR ](https://telegram.me/RRRRDO) <br>
 
 # <p align="center"> كروب دعم السورس للتكلم حول المشاكل
 
-  # <p align="center">[اضــغــط هــنــا للــدخــول للمجموعةة🃏](https://t.me/joinchat/GLOSYU6g4O2QBqlZdOaBKQ)
+  # <p align="center">[اضــغــط هــنــا للــدخــول للمجموعةة🃏](https://t.me/TEAM_GX)
   
